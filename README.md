@@ -1,3 +1,25 @@
+# To view the live web app, click on the following link
+
+
+⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
+
+https://admiring-nobel-436549.netlify.app/
+
+⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆
+
+Note: This app doesn't work on Google Chrome browser due to some issue with the api.Please check it out on any other browser.
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
